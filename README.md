@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marcel-Lukas
-- 👀 I’m interested in web development and prompt engineering.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on small projects where I can deepen my html, css and javascript skills.
 - 📫 How to reach me: m.lukas@mailbox.org
