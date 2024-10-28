@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcel-Lukas
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on small projects where I can deepen my html, css and javascript skills.
+- 💞️ I’m looking to collaborate on smaller projects where I can deepen my html, css and javascript skills.
 - 📫 How to reach me: m.lukas@mailbox.org
 - ⚡ Fun fact: You're not afraid of being alone in the dark, you're afraid of not being alone in the dark.
