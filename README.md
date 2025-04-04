@@ -12,27 +12,27 @@
 
 <h3 align="center">My current tech stack</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/>
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-4-logo-png-transparent.png" alt="bootstrap" width="40" height="40"/>
+    <img src="assets/html5.png" alt="html5" width="40" height="40"/>
+    <img src="assets/css3.png" alt="css3" width="40" height="40"/>
+    <img src="assets/javascript.png" alt="javascript" width="38" height="38"/>
+    <img src="assets/git.png" alt="git" width="40" height="40"/>
+    <img src="assets/firebase.png" alt="firebase" width="40" height="40"/>
+    <img src="assets/figma.png" alt="figma" width="40" height="40"/>
+    <img src="assets/bootstrapt.png" alt="bootstrap" width="40" height="40"/>
 </p>
 
 <h3 align="center">Currently I am learning</h3>
 <p align="center">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="44" height="44"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="assets/angular.png" alt="angular" width="44" height="44"/>
+    <img src="assets/typescript.png" alt="typescript" width="40" height="40"/>
+    <img src="assets/tailwind.png" width="40" height="40"/>
 </p>
 
 <h3 align="center">I am still training in these areas</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" height="40"/>
+    <img src="assets/react.png" alt="react" width="40" height="40"/>
+    <img src="assets/python.png" alt="python" width="40" height="40"/>
+    <img src="assets/django.png" alt="django" height="40"/>
 </p>
 
 <p align="center">
