@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
+    <img src="https://github.com/Marcel-Lukas/Marcel-Lukas/blob/output/github-snake-dark.svg" alt="snake"/>
 </p>
 
 <div align="center">
