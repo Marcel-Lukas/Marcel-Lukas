@@ -23,6 +23,7 @@
     <img src="assets/typescript.png" alt="typescript" width="40" height="40"/>
     <img src="assets/git.png" alt="git" width="40" height="40"/>
     <img src="assets/figma.png" alt="figma" width="40" height="40"/>
+    <img src="assets/vite.png" alt="vite" width="40" height="40"/>
 </p>
 <br>
 <h3 align="center">
