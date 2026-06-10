@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 
-  <img src="https://storage.marcel-lukas.com/assets/hello-gif.gif" height="32">
+  <img src="assets/hello-hand.gif" height="32">
   I'm Marcel Lukas
 </h1>
 
@@ -19,25 +19,25 @@
 </h3>
 
 <p align="center">
-    <img src="https://storage.marcel-lukas.com/assets/html.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/css.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/javascript.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/typescript.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/angular.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/vite.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/restapi.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/firebase.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/python.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/django.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/drf.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/sql.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/postgresql.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/redis.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/docker.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/linux.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/shell-scripting.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/git.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/figma.png" alt="" width="40" height="40"/>
+    <img src="assets/html.png" alt="" width="40" height="40"/>
+    <img src="assets/css.png" alt="" width="40" height="40"/>
+    <img src="assets/javascript.png" alt="" width="40" height="40"/>
+    <img src="assets/typescript.png" alt="" width="40" height="40"/>
+    <img src="assets/angular.png" alt="" width="40" height="40"/>
+    <img src="assets/vite.png" alt="" width="40" height="40"/>
+    <img src="assets/restapi.png" alt="" width="40" height="40"/>
+    <img src="assets/firebase.png" alt="" width="40" height="40"/>
+    <img src="assets/python.png" alt="" width="40" height="40"/>
+    <img src="assets/django.png" alt="" width="40" height="40"/>
+    <img src="assets/drf.png" alt="" width="40" height="40"/>
+    <img src="assets/sql.png" alt="" width="40" height="40"/>
+    <img src="assets/postgresql.png" alt="" width="40" height="40"/>
+    <img src="assets/redis.png" alt="" width="40" height="40"/>
+    <img src="assets/docker.png" alt="" width="40" height="40"/>
+    <img src="assets/linux.png" alt="" width="40" height="40"/>
+    <img src="assets/shell-scripting.png" alt="" width="40" height="40"/>
+    <img src="assets/git.png" alt="" width="40" height="40"/>
+    <img src="assets/figma.png" alt="" width="40" height="40"/>
 </p>
 
 
