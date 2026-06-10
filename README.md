@@ -37,7 +37,6 @@
     <img src="https://storage.marcel-lukas.com/assets/linux.png" alt="" width="40" height="40"/>
     <img src="https://storage.marcel-lukas.com/assets/shell-scripting.png" alt="" width="40" height="40"/>
     <img src="https://storage.marcel-lukas.com/assets/git.png" alt="" width="40" height="40"/>
-    <img src="https://storage.marcel-lukas.com/assets/scrum.png" alt="" width="40" height="40"/>
     <img src="https://storage.marcel-lukas.com/assets/figma.png" alt="" width="40" height="40"/>
 </p>
 
