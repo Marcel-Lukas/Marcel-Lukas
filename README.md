@@ -5,18 +5,23 @@
 </h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Current Focus-Web%20Development-00411E?style=flat" />
-    <img src="https://img.shields.io/badge/My Passion-UI/UX-007ACD?style=flat" />
+    <img src="https://img.shields.io/badge/Current Focus-Web%20Development-F16529?style=flat" />
+    <img src="https://img.shields.io/badge/My Passion-UI/UX-3178C6?style=flat" />
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Practiced in-Prompt Engineering-FF9F00?style=flat" />
-    <img src="https://img.shields.io/badge/Interest in-Cybersecurity-C40030?style=flat" />
+    <img src="https://img.shields.io/badge/Practiced in-Prompt Engineering-FFCA28?style=flat" />
+    <img src="https://img.shields.io/badge/Interest in-Cybersecurity-A30000?style=flat" />
 </p>
 
-<h3 align="center">
-  Preferred tech stack
-</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Currently-learning%20C%23-388A34?style=flat" />
+    <img src="https://img.shields.io/badge/Currently-learning%20Unity-00CCCC?style=flat" />
+</p>
+
+<h2 align="center">
+   Current preferred tech stack
+</h2>
 
 <p align="center">
     <img src="assets/html.png" alt="" width="40" height="40"/>
@@ -40,7 +45,6 @@
     <img src="assets/figma.png" alt="" width="40" height="40"/>
 </p>
 
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Marcel-Lukas/Marcel-Lukas/output/github-snake.svg"
@@ -49,7 +53,7 @@
 </p>
 <div align="center">
 <a href="https://marcel-lukas.com/">
-    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=2468fa&animation=twinkling&fontAlignY=33"/>
+    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=2468fa&animation=twinkling&fontAlignY=28"/>
 </a>
 <p>
   <strong>
