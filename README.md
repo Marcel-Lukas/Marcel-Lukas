@@ -14,11 +14,6 @@
     <img src="https://img.shields.io/badge/Interest in-Cybersecurity-A30000?style=flat" />
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Currently-learning%20C%23-388A34?style=flat" />
-    <img src="https://img.shields.io/badge/Currently-learning%20Unity-00CCCC?style=flat" />
-</p>
-
 <h2 align="center">
    Current preferred tech stack
 </h2>
